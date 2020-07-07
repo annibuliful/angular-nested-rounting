@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-routing"
+    }
+  },
+  "defaultProject": "test-routing",
+  "cli": {
+    "analytics": false
+  }
 }
